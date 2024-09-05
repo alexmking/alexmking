@@ -1,6 +1,12 @@
 ### 👋 Hi there, I'm Alex King!
 
 ---
+<h3>Note Regarding my Enterprise Account:</h3>
+<p>
+I recently lost access to my primary GitHub Enterprise account after the University of Minnesota ended lifetime alumni support in 2023 and mistakenly applied this change to my graduating class, retroactively. I'm currently in the process of trying to recover the account, which contains the bulk of my completed projects. 
+</p>
+
+---
 
 ![](https://komarev.com/ghpvc/?username=alexmking1&color=fb4362)
 
@@ -34,10 +40,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-<h3>Note Regarding my Enterprise Account:</h3>
-<p>
-I recently lost access to my primary GitHub Enterprise account due to the University of Minnesota ending lifetime-support of graduating student accounts in 2023. This change was mistakenly applied retroactively to my graduating class, resulting in immediate loss of access to my primary GitHub account. I'm currently in the process of trying to get my account back, as it had the bulk of my finished projects. Until then I'm going to be moving as much of my previous work I still have access to over to this GitHub account. 
-</p>
+---
 
 If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? (fix broken link) 🥺
 
