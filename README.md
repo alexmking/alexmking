@@ -1,4 +1,14 @@
-### 👋 Hi there, I'm Alex King!
+<h1 align='center'> Hi there 👋, I'm Alex </h1>
+
+<p align='center'>
+  Passionate about software development in all its forms
+</p>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/alex-m-king/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:king1493@umn.edu?subject=Alex%20King"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
 
 ---
 <h3>Note Regarding my Enterprise Account:</h3>
