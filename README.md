@@ -18,22 +18,16 @@ I recently lost access to my primary GitHub Enterprise account after the Univers
 
 ---
 
-![](https://komarev.com/ghpvc/?username=alexmking1&color=fb4362)
-
 <h3>Languages, Tools & Technologies:</h3>
-
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=react&logoColor=black" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="" src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=Google%20Cloud&logoColor=white"/>
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -60,8 +54,6 @@ I recently lost access to my primary GitHub Enterprise account after the Univers
   <img alt="" src="https://img.shields.io/badge/Apache-%23D22128?logo=Apache&logoColor=white"/>
   <img alt="" src="https://img.shields.io/badge/NGINX-%23009639?logo=NGINX&logoColor=white"/>
   <img alt="" src="https://img.shields.io/badge/Postman-%23FF6C37?logo=Postman&logoColor=white"/>
-  <img alt="" src="https://img.shields.io/badge/Django-%23092E20?logo=Django&logoColor=white"/>
-  <img alt="" src="https://img.shields.io/badge/Ruby%20on%20Rails-%23D30001?logo=Ruby%20on%20Rails&logoColor=white"/>
   <img alt="" src="https://img.shields.io/badge/Flask-%23000000?logo=Flask&logoColor=white"/>
   <img alt="" src="https://img.shields.io/badge/Flutter-%2302569B?logo=Flutter&logoColor=white"/>
   <img alt="" src="https://img.shields.io/badge/jQuery-%230769AD?logo=jQuery&logoColor=white"/>
@@ -76,12 +68,28 @@ I recently lost access to my primary GitHub Enterprise account after the Univers
 
 ---
 
-<h3>My GitHub contributions summary</h3>
+<h3>My GitHub Summary</h3>
+
+<p> 
+ <img src="https://komarev.com/ghpvc/?username=alexmking1&color=fb4362"/>
+ <img src="https://badges.pufler.dev/repos/alexmking1"/>
+ <img src="https://badges.pufler.dev/commits/monthly/alexmking1" />
+</p>
+
+<!--
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alexmking1&hide=shaderlab,kotlin,hlsl&theme=dark">
+</p>
+
+-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexmking1&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
+<!--
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alexmking1&hide=shaderlab,kotlin,hlsl&theme=radical">
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexmking1&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
-
+-->
 
 
 
