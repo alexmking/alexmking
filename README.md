@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Alex </h1>
 
 <p align='center'>
-  Passionate about software development in all its forms
+  Passionate about software development in all forms.
 </p>
 
 <p align='center'>
