@@ -72,9 +72,21 @@ I recently lost access to my primary GitHub Enterprise account after the Univers
 
 <p> 
  <img src="https://komarev.com/ghpvc/?username=alexmking1&color=fb4362"/>
+</p>
+
+<!--
+<p> 
+ <img src="https://komarev.com/ghpvc/?username=alexmking1&color=fb4362"/>
  <img src="https://badges.pufler.dev/repos/alexmking1"/>
  <img src="https://badges.pufler.dev/commits/monthly/alexmking1" />
 </p>
+
+<p> 
+ <img src="https://komarev.com/ghpvc/?username=alexmking&color=fb4362"/>
+ <img src="https://badges.pufler.dev/repos/alexmking"/>
+ <img src="https://badges.pufler.dev/commits/monthly/alexmking" />
+</p>
+-->
 
 <!--
 <p align = "center">
