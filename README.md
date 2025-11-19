@@ -71,7 +71,7 @@ I recently lost access to my primary GitHub Enterprise account after the Univers
 <h3>My GitHub Summary</h3>
 
 <p> 
- <img src="https://komarev.com/ghpvc/?username=alexmking1&color=fb4362"/>
+ <img src="https://komarev.com/ghpvc/?username=alexmking&color=fb4362"/>
 </p>
 
 <!--
